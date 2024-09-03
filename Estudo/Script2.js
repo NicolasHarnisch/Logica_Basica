@@ -10,3 +10,5 @@ do {
     console.log("ola")
     contador++
 }while (contador < 3)
+    
+    console.log("oi")
